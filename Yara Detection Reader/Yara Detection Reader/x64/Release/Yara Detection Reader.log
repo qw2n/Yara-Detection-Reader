@@ -1,0 +1,5 @@
+﻿  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1530 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Yara Detection Reader.vcxproj -> C:\Users\Пользователь\Desktop\Yara Detection Reader\x64\Release\Yara Detection Reader.exe
